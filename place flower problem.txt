@@ -1,0 +1,2 @@
+place flower problem :
+https://leetcode.com/problems/can-place-flowers/solutions/1698539/by-explanation-i-made-it-so-easy
